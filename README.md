@@ -27,9 +27,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ZhangLei" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhangLei" />
 </div>
