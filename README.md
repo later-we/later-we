@@ -15,10 +15,6 @@
 </h2>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ZhangLei?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-
-<div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ZhangLei&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
@@ -35,15 +31,5 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ZhangLei&theme=xcode" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhangLei" />
 </div>
-
-<!-- 你可以根据需要继续添加更多内容 -->
-
----
-
-> 以上内容参考自知乎文章 [Github 首页美化教程（一）：打造个性化的GitHub首页](https://zhuanlan.zhihu.com/p/454597068)
